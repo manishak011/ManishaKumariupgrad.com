@@ -17,7 +17,7 @@
   background-color: #4CAF50; /* Blue */
   border: none;
   color: white;
-  padding: 20px 32px;
+  padding: 10px 22px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -33,7 +33,7 @@
 }
 .button:hover {
   background-color: #008CBA;
-  color: white;
+  color: red;
 }
 #form1
 {
