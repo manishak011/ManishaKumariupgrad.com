@@ -2,7 +2,7 @@
 .navbar-nav
 {
 	text-align: center;
-	padding-left: 55%;
+	padding-left: 45%;
 }
 .navbar-nav > h4
 {
@@ -11,7 +11,7 @@
 }
 .col-sm-10 > input
 {
-	width: 70%;
+	width: 60%;
 }
 .button {
   background-color: #4CAF50; /* Blue */
